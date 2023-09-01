@@ -1,0 +1,16 @@
+{
+    "name": "admin/php",
+    "description": "aula10-08",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JohnDias0",
+            "email": "dias44520@gmail.com"
+        }
+    ],
+    "require": {}
+}
