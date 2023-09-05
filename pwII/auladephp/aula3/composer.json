@@ -1,0 +1,9 @@
+{
+    "name": "admin/phpclasses",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Phpclasses\\": "src/"
+        }
+    },
+    "require": {}
+}
