@@ -5,7 +5,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-import ProjGradleBD.persistence.ConectionFact;
+import br.eteczl.persistence.ConectionFact;
 
 /**
  * Hello world!
