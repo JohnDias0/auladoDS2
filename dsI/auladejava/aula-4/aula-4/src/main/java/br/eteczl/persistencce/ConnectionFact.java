@@ -1,4 +1,4 @@
-package ProjGradleBD.persistence;
+package br.eteczl.persistence;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
